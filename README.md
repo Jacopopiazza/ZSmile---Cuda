@@ -18,8 +18,8 @@ Project is created with:
 * Data preprocess of SMILES string
 	
 ## Setup
-To run this project, install it locally and compile using cmake
-CUDA Toolkit is needed to build the project
+To run this project, install it locally and compile using cmake.
+CUDA Toolkit is needed to build the project, verify the path is correct in CMakeList file.
 
 ```
 $ cd CUDA-ZSmile
