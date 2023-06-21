@@ -1,0 +1,45 @@
+mix_bucket_0_10_v_2
+Compression ratio = 0.282293 Input Size = 0.46518
+ Bad chars = 0.0105703
+mix_bucket_0_10_v_3
+Compression ratio = 0.282274 Input Size = 0.465162
+ Bad chars = 0.010574
+mix_bucket_10_20_v_2
+Compression ratio = 0.267582 Input Size = 0.546237
+ Bad chars = 0.0101144
+mix_bucket_20_30_v_4
+Compression ratio = 0.257295 Input Size = 0.666418
+ Bad chars = 0.0100144
+mix_bucket_20_30_v_2
+Compression ratio = 0.257325 Input Size = 0.666301
+ Bad chars = 0.0100233
+mix_bucket_20_30_v_3
+Compression ratio = 0.257283 Input Size = 0.666314
+ Bad chars = 0.0100186
+Reaction10_10.smi
+Compression ratio = 0.274121 Input Size = 1.00005
+ Bad chars = 0.00930363
+Reaction13_29.smi
+Compression ratio = 0.27604 Input Size = 0.894247
+ Bad chars = 0.0121664
+Reaction16_141.smi
+Compression ratio = 0.26753 Input Size = 0.424099
+ Bad chars = 0.00938235
+Reaction28_14.smi
+Compression ratio = 0.264934 Input Size = 0.908363
+ Bad chars = 0.00845223
+Reaction35_77.smi
+Compression ratio = 0.294089 Input Size = 0.346083
+ Bad chars = 0.0136581
+Reaction45_33.smi
+Compression ratio = 0.293602 Input Size = 1.02455
+ Bad chars = 0.00940964
+Reaction47_736.smi
+Compression ratio = 0.267222 Input Size = 0.619723
+ Bad chars = 0.00887776
+Reaction50_111.smi
+Compression ratio = 0.285392 Input Size = 1.51426
+ Bad chars = 0.00853967
+Reaction54_99.smi
+Compression ratio = 0.298082 Input Size = 1.00901
+ Bad chars = 0.00881283
