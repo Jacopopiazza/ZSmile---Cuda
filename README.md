@@ -22,7 +22,7 @@ To run this project, install it locally and compile using cmake.
 CUDA Toolkit is needed to build the project, verify the path is correct in CMakeList file.
 
 ```
-$ cd CUDA-ZSmile
+$ cd ZSmile-CUDA
 $ mkdir build
 $ cmake -S . -B build
 $ cd build
